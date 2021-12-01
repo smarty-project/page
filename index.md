@@ -1,4 +1,4 @@
-# Welcome to the SSF SMARTY project page.
+# Welcome to the SSF SMARTY project page
 
 This web page showcases the research outputs of project SMARTY.
 Additional information also available on the [Lund University research portal](https://portal.research.lu.se/sv/projects/s%C3%A4kra-mjukvaruuppdateringar-f%C3%B6r-den-smarta-staden).
@@ -6,7 +6,7 @@ Additional information also available on the [Lund University research portal](h
 ## Topics
 Project SMARTY includes the following components:
    * [Vulnerability Analysis](./vulnerability.html)
-   * [Software Defined Infrastructure Security](./sdn.html)
+   * [Software Defined Network Infrastructure Security](./sdn.html)
    * [Device Management](./devman.html)
    * [Applications](./applications.html)
    * [Demonstrators](./demonstrators.html)
