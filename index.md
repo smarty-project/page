@@ -9,7 +9,7 @@ Project SMARTY includes the following components:
    * [Software Defined Infrastructure Security](./sdn.html)
    * [Device Management](./devman.html)
    * [Applications](./applications.html)
-   * [Demonstrators](./applications.html)
+   * [Demonstrators](./demonstrators.html)
 
 Watch a video introduction to the project below:
 
