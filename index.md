@@ -6,7 +6,7 @@ Additional information also available on the [Lund University research portal](h
 ## Topics
 Project SMARTY includes the following components:
    * [Vulnerability Analysis](./vulnerability.html)
-   * [Software Defined Network Infrastructure Security](./sdn.html)
+   * [Network Security](./sdn.html)
    * [Device Management](./devman.html)
    * [Applications](./applications.html)
    * [Demonstrators](./demonstrators.html)
