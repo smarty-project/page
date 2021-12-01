@@ -13,4 +13,4 @@ Project SMARTY includes the following components:
 
 Watch a video introduction to the project below:
 
-{% include youtubePlayer.html id=lPFuUWdpeT4 %}
+{% include youtubePlayer.html id="lPFuUWdpeT4" %}
