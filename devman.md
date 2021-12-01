@@ -2,8 +2,7 @@
 
 Watch Alfred Åkesson present his thesis: *ComPOS - a Domain-Specific Language for Composing Internet-of-Things Systems*
 
-{% include youtubePlayer.html id=tkFkQy3BJ18 %}
-
+{% include youtubePlayer.html id="tkFkQy3BJ18" %}
 
 This demo video presented by Mattias Nordahl was shown at the EDOC 2020 Demo conference and won the best demo award.
 
