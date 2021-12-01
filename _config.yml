@@ -3,5 +3,7 @@ theme: jekyll-theme-dinky
 title: SSF-SMARTY
 description: Landing page of the SSF SMARTY project
 
+show_downloads: false
+
 github:
   is_project_page: false
