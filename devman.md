@@ -2,17 +2,18 @@
 
 ## Device Management
 
-Watch [Alfred Åkesson](https://portal.research.lu.se/sv/persons/alfred-%C3%A5kesson) present an introduction to PalCom
 
-{% include youtubePlayer.html id="yC-FkTJE61s" %}
+Watch an introduction to PalCom, the middleware used to build the device management.  
+
+{% include youtubePlayer.html id="Ln4c5Lm_Y60" %}
 
 Watch [Mattias Nordahl](https://portal.research.lu.se/sv/persons/mattias-nordahl) present an overview of the update mechanism, implemented in Palcom, as part of the Smarty SFF project.
 
 {% include youtubePlayer.html id="tkFkQy3BJ18" %}
 
-Watch [Alfred Åkesson](https://portal.research.lu.se/sv/persons/alfred-%C3%A5kesson) introduce ComPOS
+Watch an introduction to ComPOS, a composition language for composing service in Palcom.
 
-{% include youtubePlayer.html id="LOU0ZQS70n0" %}
+{% include youtubePlayer.html id="0X-kS9hSYxY" %}
 
 This demo video presented by [Mattias Nordahl](https://portal.research.lu.se/sv/persons/mattias-nordahl) was shown at the EDOC 2020 Demo conference and won the best demo award.
 
@@ -21,3 +22,10 @@ This demo video presented by [Mattias Nordahl](https://portal.research.lu.se/sv/
 Watch [Alfred Åkesson](https://portal.research.lu.se/sv/persons/alfred-%C3%A5kesson) present his thesis: *ComPOS - a Domain-Specific Language for Composing Internet-of-Things Systems*
 
 {% include youtubePlayer.html id="AU63XRrFu4M" %}
+
+### People involved in this part of the project
+
+* [Alfred Åkesson](https://portal.research.lu.se/sv/persons/alfred-åkesson)
+* [Mattias Nordahl](https://portal.research.lu.se/sv/persons/mattias-nordahl)
+* [Görel Hedin](https://portal.research.lu.se/sv/persons/görel-hedin)
+* [Boris Magnusson](https://portal.research.lu.se/sv/persons/boris-magnusson)
