@@ -22,20 +22,20 @@ This video further describes the automatic update mechanism implemented in Palco
 
 
 ### ComPOS
-ComPOS is a composition language used in Palcom, for creating composition used to coordinate services. These concepts and others are explained in the above Palcom introductory video. This video is an introduction to the ComPOS language.
+This video introduces ComPOS, a composition language used in Palcom. ComPOS is used for composing and coordinating services.
 
 <!-- ComPOS Introduction -->
 {% include youtubePlayer.html id="0X-kS9hSYxY" %}
 
-### EDOC 2020 Demo Conferenace video
-This demo video was shown in the EDOC 2020 Demo confererance and won the Best Demo award. It showcases our update mechanism using one of the demonstrator scenarios of the project that we have developed together with the municipality of Helsingborg.
+### EDOC 2020 Demo video
+This demo video was shown at the EDOC 2020 Conference and won the Best Demo award. It showcases our update mechanism using one of the demonstrator scenarios of the project that we have developed together with the municipality of Helsingborg.
 
 <!-- EDOC 2020 Demo video -->
 {% include youtubePlayer.html id="TVLZfQT-IRo" %}
 
 
 ### ComPOS - a Domain-Specific Language for Composing Internet-of-Things Systems
-This video is the thesis presentation of Alfred Åkesson. It gives an in-dept and detailed presentation of ComPOS.
+This video is the PhD thesis presentation of Alfred Åkesson. It gives a more detailed presentation of ComPOS.
 
 <!-- ComPOS Thesis (30 min) -->
 {% include youtubePlayer.html id="tkFkQy3BJ18" %}
