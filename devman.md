@@ -9,7 +9,7 @@ So, at the heart of this part of the project is the requirement to securely dist
 As part of our research we have implemented a prototype update mechanism that addresses the issues stated above. We use this mechanism in a demonstrator that we have developed in collaboration with the municipality of Helsingborg.
 
 ### Palcom introduction
-Our updating mechanism builds on concepts from Palcom, a framework for building IoT systems, amd is implemented using the Palcom middleware toolkit. This video gives an introduction to these concepts and basic building blocks of Palcom.
+Our updating mechanism builds on concepts from Palcom, a framework for building IoT systems, and is implemented using the Palcom middleware toolkit. This video gives an introduction to these concepts and basic building blocks of Palcom.
 
 <!-- Palcom Introduction -->
 {% include youtubePlayer.html id="Ln4c5Lm_Y60" %}
@@ -20,7 +20,9 @@ This video further describes the automatic update mechanism implemented in Palco
 <!-- Automatic Updates -->
 {% include youtubePlayer.html id="AU63XRrFu4M" %}
 
-Watch an introduction to ComPOS, a composition language for composing service in Palcom.
+
+### ComPos
+ComPos is a composition language used in Palcom, for creating composition used to coordinate services. These concepts and others are explained in the above Palcom introductory video. This video is an introduction to the ComPos language.
 
 <!-- ComPos Introduction -->
 {% include youtubePlayer.html id="0X-kS9hSYxY" %}
