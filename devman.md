@@ -2,29 +2,20 @@
 
 ## Device Management
 
+Massively distributed systems are challenging to update while maintaining consistency among the included devices. They pose additional challenges compared to traditional architectures, such as handling systems that are always on, handling a large number of devices, and moving from centralised to edge architectures. It can not be assumed that all devices are available for updating at the same time, and in many cases it is not feasible to shut down the system for updating. This can make it difficult to deploy updates in a consistent and timely manner, which might be crucial when facing security vulnerabilities. Additionally, the updating procedure itself must not open up for new vulnerabilities.
 
-Massively distributed systems are challenging to update while maintaining consistency
-among the included devices. They pose additional challenges compared to traditional architectures, such as
-handling systems that are always on, large number of devices,
-and moving from centralised to edge architectures.
+So, at the heart of this part of the project is the requirement to securely distribute and install updated code in remote devices, and to be able to do so in a timely manner that doesn't require the system to be shut down.
 
-It can not be assumed that all devices are available for updating at the same time, and in many cases
-it is not feasible to shut down the system for updating.
-This can make it difficult to deploy updates in a consistent and timely manner, which might be crucial when facing security vulnerabilities.
-Additionally, the updating procedure itself must not open up for new vulnerabilities.
+As part of our research we have implemented a prototype update mechanism that addresses the issues stated above. We use this mechanism in a demonstrator that we have developed in collaboration with the municipality of Helsingborg.
 
-So, at the heart of this part of the
-project is the requirement to securely distribute and install updated code in remote devices,
-and to be able to do so in a timely manner that doesn't require the system to be shut down.
-
-...
-
-Watch an introduction to PalCom, the middleware used to build the device management.  
+### Palcom introduction
+Our updating mechanism builds on concepts from Palcom, a framework for building IoT systems, amd is implemented using the Palcom middleware toolkit. This video gives an introduction to these concepts and basic building blocks of Palcom.
 
 <!-- Palcom Introduction -->
 {% include youtubePlayer.html id="Ln4c5Lm_Y60" %}
 
-Watch [Mattias Nordahl](https://portal.research.lu.se/sv/persons/mattias-nordahl) present an overview of the update mechanism, implemented in Palcom, as part of the Smarty SFF project.
+### Automatic updates
+This video further describes the automatic update mechanism implemented in Palcom.
 
 <!-- Automatic Updates -->
 {% include youtubePlayer.html id="AU63XRrFu4M" %}
