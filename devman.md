@@ -42,7 +42,7 @@ This video is the PhD thesis presentation of Alfred Åkesson. It gives a more de
 
 ### People involved in this part of the project
 
-* [Alfred Åkesson](https://portal.research.lu.se/sv/persons/alfred-åkesson)
-* [Mattias Nordahl](https://portal.research.lu.se/sv/persons/mattias-nordahl)
-* [Görel Hedin](https://portal.research.lu.se/sv/persons/görel-hedin)
-* [Boris Magnusson](https://portal.research.lu.se/sv/persons/boris-magnusson)
+* [Alfred Åkesson](https://portal.research.lu.se/en/persons/alfred-åkesson)
+* [Mattias Nordahl](https://portal.research.lu.se/en/persons/mattias-nordahl)
+* [Görel Hedin](https://portal.research.lu.se/en/persons/görel-hedin)
+* [Boris Magnusson](https://portal.research.lu.se/en/persons/boris-magnusson)
