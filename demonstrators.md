@@ -11,7 +11,9 @@ The city of Helsingborg provides home care services, where personell visits pati
 - **Bumpy roads**: Measuring quick acceleration and movement can potentially help to detect potholes or poor road quality in bicycle roads.
 - **Poorly lit areas**: Light and sound sensors can potentially help to find areas that are poorly lit, or map noise levels in the city.
 
-Video coming soon...
+<!-- Demonstrator - Device Management -->
+{% include youtubePlayer.html id="IRbrQowCTnA" %}
+
 
 ### Nicolae's case
 Coming soon...
