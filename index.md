@@ -10,6 +10,7 @@ Project SMARTY includes the following components:
    * [Device Management](./devman.html)
    * [Applications](./applications.html)
    * [Demonstrators](./demonstrators.html)
+   * [Outreach](./outreach.html)
 
 Watch a video introduction to the project below:
 
