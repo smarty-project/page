@@ -15,5 +15,8 @@ The city of Helsingborg provides home care services, where personell visits pati
 {% include youtubePlayer.html id="IRbrQowCTnA" %}
 
 
-### Nicolae's case
-Coming soon...
+Short, improvised recording after demo at the H22 expo at Campus Helsingborg, Lund University on June 7-10. Language is Swedish.
+
+<!-- Demonstrator - Device Management -->
+{% include youtubePlayer.html id="g6eabW3vBaU" %}
+
